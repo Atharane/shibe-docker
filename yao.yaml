@@ -1,0 +1,12 @@
+---
+League:
+- name: Premier League
+  site: https://www.premierleague.com
+  teams:
+  - name: Manchester United
+    site: https://www.manutd.com
+    manager: Ole Gunnar Solskjaer
+  
+  - name: Manchester City
+    site: https://www.mancity.com
+    manager: Pep Guardiola
